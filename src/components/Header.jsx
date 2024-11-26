@@ -52,7 +52,6 @@ function Header() {
           </button>
         </div>
       </div>
-      {/* Side Menu */}
       <div
         className={`fixed top-0 right-0 h-full w-64 bg-primary-dark transform ${
           isMenuOpen ? "translate-x-0" : "translate-x-full"
