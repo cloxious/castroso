@@ -8,33 +8,78 @@ function Gallery() {
   const images = [
     {
       id: 1,
-      src: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467",
-      alt: "Perro jugando en el parque",
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0046.jpg?bwg=1675131188",
+      alt: "Perros",
     },
     {
       id: 2,
-      src: "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13",
-      alt: "Gato descansando en una ventana",
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0041.jpg?bwg=1675131188",
+      alt: "Campaña Desparasitación",
     },
     {
       id: 3,
-      src: "https://images.unsplash.com/photo-1450778869180-41d0601e046e",
-      alt: "Perro y gato juntos",
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0039.jpg?bwg=1675131188",
+      alt: "Alimentación",
     },
     {
       id: 4,
-      src: "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
-      alt: "Gato mirando a la cámara",
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0040.jpg?bwg=1675131188",
+      alt: "Peluditos",
     },
     {
       id: 5,
-      src: "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48",
-      alt: "Perro corriendo en la playa",
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0035.jpg?bwg=1675131188",
+      alt: "Santuario de Sam",
     },
     {
       id: 6,
-      src: "https://images.unsplash.com/photo-1573865526739-10659fec78a5",
-      alt: "Gatito durmiendo",
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0033.jpg?bwg=1675131188",
+      alt: "Donaciones",
+    },
+    {
+      id: 7,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0033.jpg?bwg=1675131188",
+      alt: "Donaciones",
+    },
+    {
+      id: 8,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0029.jpg?bwg=1675131188",
+      alt: "Adopción",
+    },
+    {
+      id: 9,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0031.jpg?bwg=1675131188",
+      alt: "Adopción",
+    },
+    {
+      id: 10,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0025.jpg?bwg=1675131188",
+      alt: "Adopción",
+    },
+    {
+      id: 11,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0028.jpg?bwg=1675131188",
+      alt: "Adopción",
+    },
+    {
+      id: 12,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0019.jpg?bwg=1675131188",
+      alt: "Peluditos",
+    },
+    {
+      id: 13,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0021.jpg?bwg=1675131188",
+      alt: "Perritos",
+    },
+    {
+      id: 14,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0015.jpg?bwg=1675131188",
+      alt: "Gatitos",
+    },
+    {
+      id: 15,
+      src: "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0016.jpg?bwg=1675131188",
+      alt: "Gatitos",
     },
   ];
 
