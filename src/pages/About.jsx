@@ -10,23 +10,13 @@ function About() {
       </h1>
       <div className="space-y-6">
         <p className="text-text">
-          Amor y Abrigo es un refugio de animales sin fines de lucro fundado en
-          2010 en San Pedro Sula, Honduras, por un grupo de amantes de los
-          animales comprometidos con el bienestar de las mascotas abandonadas y
-          maltratadas. Nuestra misión es proporcionar un hogar temporal seguro y
-          amoroso para estos animales, mientras trabajamos incansablemente para
-          encontrarles hogares permanentes y cariñosos en nuestra comunidad
-          local.
+        La Fundación Amor y Abrigo es una organización sin fines de lucro dedicada a rescatar, proteger y dar una nueva oportunidad de vida a animales que han sido víctimas de abandono y maltrato en San Pedro Sula y sus alrededores.Desde nuestros inicios, hemos trabajado incansablemente para brindarles a estos seres inocentes un refugio seguro, alimentación, atención veterinaria y, sobre todo, mucho amor. Nuestra labor no solo se enfoca en la rehabilitación, sino también en encontrar hogares responsables donde puedan ser parte de una familia que los valore.
         </p>
         <h2 className="text-2xl font-semibold text-primary-dark">
           Nuestra Historia
         </h2>
         <p className="text-text">
-          Todo comenzó cuando nuestros fundadores rescataron a un grupo de
-          perros abandonados en las afueras de la ciudad. Al darse cuenta de la
-          magnitud del problema de animales sin hogar, decidieron crear un
-          espacio donde estos seres indefensos pudieran recibir el cuidado y el
-          amor que merecen.
+        Amor y Abrigo nació en 2015 con el sueño de cambiar la vida de los animales abandonados en nuestra comunidad. Desde entonces, hemos rescatado a cientos de perros, gatos e incluso caballos, ofreciéndoles una segunda oportunidad para ser felices. Con el apoyo de voluntarios, donantes y familias adoptivas, seguimos expandiendo nuestra misión de amor y protección hacia aquellos que más lo necesitan.
         </p>
         <h2 className="text-2xl font-semibold text-primary-dark">
           Nuestro Equipo

@@ -1,48 +1,49 @@
 import usePageTitle from "../hooks/usePageTitle";
 import AnimalCard from "../components/AnimalCard";
 
+
 function Animals() {
-  usePageTitle("Nuestros Animales");
+  usePageTitle("Nuestros Peluditos");
 
   const animals = [
     {
-      name: "Luna",
+      name: "Nina",
       species: "Perro",
       image:
-        "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "https://amoryabrigo.org/wp-content/uploads/2023/03/perrito-1.png",
       description:
-        "Luna es una perrita cariñosa y juguetona de 2 años. Le encanta correr y jugar a la pelota.",
+        "Desde muy pequeña, fue una perrita muy juguetona hasta que sufrió el dolor de no ser querida y ser golpeada. Nina es una sobreviviente del maltrato y la maldad del hombre, fue lastimada a pesar de ser una perrita llena de amor y energia. Hoy en dia, es una peludita muy fuerte y sana gracias al apoyo de los angelitos de Amor y Abrigo.",
     },
     {
-      name: "Milo",
-      species: "Gato",
-      image:
-        "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-      description:
-        "Milo es un gato tranquilo de 3 años. Disfruta de siestas al sol y mimos en el regazo.",
-    },
-    {
-      name: "Rocky",
+      name: "Canelo",
       species: "Perro",
       image:
-        "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "https://amoryabrigo.org/wp-content/uploads/2023/03/canelo1-e1678858635489.png",
       description:
-        "Rocky es un perro enérgico de 4 años. Es excelente con niños y le encanta hacer ejercicio.",
+        "Canelo es un perrito que al igual que muchos otros animalitos tuvo una vida dificil, su anterior dueño lo lastimo con un machete e incluso lo dejaba pasar hambre y tenia que buscar alimento en la basura. Y no solo sufria por los maltratos sino tambien por una enfermedad, gracias al refugio Amor y Abrigo encontró un hogar y una familia que le da el amor que siempre debió recibir.",
     },
     {
-      name: "Nala",
-      species: "Gato",
+      name: "Duquesa",
+      species: "Perro",
       image:
-        "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "https://amoryabrigo.org/wp-content/uploads/2023/03/duquesa3.png",
       description:
-        "Nala es una gatita juguetona de 1 año. Le encanta trepar y explorar nuevos lugares.",
+        "Duquesa es una perrita que tambien ha pasado por mucho, sus antiguos dueños la dejaron abandonada en un solar abandonado, pasando sol, hambre y sed. Aunque ella esperaba el regreso de ellos, entendió que la habian abandonado. Hasta que llegaron los corazones bondadosos de Amor y Abrigo. Rescatandola y ayudandole a sanar.",
+    },
+    {
+      name: "Platanito",
+      species: "Caballo",
+      image:
+        "https://amoryabrigo.org/wp-content/uploads/photo-gallery/IMG-20230130-WA0034.jpg?bwg=1675131188",
+      description:
+        "Platanito es un caballo rescatado del maltrato de las personas, al igual que muchos caballos que han sido victimas de personas con un corazon malvado. Todos los caballos, yeguas y potrillos viven en el santuario de Sam, que se llama así en honor del primer caballo rescatado y que lastimosamente no pudo sobrevivir.",
     },
   ];
 
   return (
     <div>
       <h1 className="text-3xl font-bold text-primary-dark mb-6">
-        Nuestros Animales
+        Conoce Nuestros Peluditos
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {animals.map((animal, index) => (
