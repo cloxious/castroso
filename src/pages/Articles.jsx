@@ -7,23 +7,23 @@ function Articles() {
   const articles = [
     {
       id: 1,
-      title: "Cómo preparar tu hogar para un nuevo perro",
+      title: "GISSEL OSEGUERA",
       excerpt:
-        "Consejos prácticos para hacer que la transición de tu nuevo amigo peludo sea lo más suave posible.",
-      date: "2023-05-15",
+        "Me alegro de ser parte del proyecto Amor y Abrigo ¡Todo lo que se realiza es tan útil para los animales!",
+      date: "2023-01-28",
     },
     {
       id: 2,
-      title: "Los beneficios de adoptar un gato adulto",
+      title: "RUBBY ASAFF",
       excerpt:
-        "Descubre por qué adoptar un gato adulto puede ser una experiencia increíblemente gratificante.",
-      date: "2023-05-10",
+        "Me propuse como meta en la vida ayudar a los animales al ver la importancia que merecen.",
+      date: "2023-03-10",
     },
     {
       id: 3,
-      title: "Nutrición básica para mascotas rescatadas",
+      title: "MARTA GUZMAN",
       excerpt:
-        "Una guía sobre cómo alimentar adecuadamente a tu nueva mascota rescatada para garantizar su salud y bienestar.",
+        "Encontré una excelente manera de marcar la diferencia. ¡Me apasiona y me siento feliz de ayudar!",
       date: "2023-05-05",
     },
   ];

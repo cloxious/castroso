@@ -4,23 +4,23 @@ import usePageTitle from "../hooks/usePageTitle";
 const articles = [
   {
     id: 1,
-    title: "Cómo preparar tu hogar para un nuevo perro",
+    title: "GISSEL OSEGUERA",
     content:
-      "Traer un nuevo perro a casa es una experiencia emocionante, pero requiere preparación. Aquí te damos algunos consejos para hacer que la transición sea lo más suave posible para ti y tu nuevo amigo peludo...",
-    date: "2023-05-15",
+      "Me alegro de ser parte del proyecto Amor y Abrigo ¡Todo lo que se realiza es tan útil para los animales!, me alegra ser parte de este proyecto y ayudar de manera sencilla aportando un poco de amor a estos animales.",
+    date: "2023-01-28",
   },
   {
     id: 2,
-    title: "Los beneficios de adoptar un gato adulto",
+    title: "RUBBY ASAFF",
     content:
-      "Mientras que los gatitos son adorables, adoptar un gato adulto puede ser una experiencia increíblemente gratificante. Los gatos adultos ya tienen personalidades formadas, por lo que sabrás exactamente qué tipo de compañero estás trayendo a casa...",
-    date: "2023-05-10",
+      "Me propuse como meta en la vida ayudar a los animales al ver la importancia que merecen. Todos necesitamos amor y podemos dar amor a quienes se lo merecen y a quienes la vida los ha tratado tan injustamente, me encanta poder ayudar a estos animales brindandoles ese 'amor y abrigo'",
+    date: "2023-03-10",
   },
   {
     id: 3,
-    title: "Nutrición básica para mascotas rescatadas",
+    title: "MARTA GUZMAN",
     content:
-      "La nutrición adecuada es crucial para la salud y el bienestar de tu nueva mascota rescatada. Dependiendo de su historia, es posible que necesite una dieta especial para ayudarle a recuperarse y mantenerse saludable...",
+      "Encontré una excelente manera de marcar la diferencia. ¡Me apasiona y me siento feliz de ayudar!. Ver que los animales que han sido mal tratados encuentran amor y felicidad cuando son adoptados, son sentimientos que no tienen precio.",
     date: "2023-05-05",
   },
 ];
