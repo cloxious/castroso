@@ -17,6 +17,9 @@ jobs:
   build:
     name: Build Phase
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
 
     steps:
       - name: Checkout de Repositorio
